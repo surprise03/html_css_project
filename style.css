@@ -1751,6 +1751,9 @@ iframe {
         font-size: 13px;
         padding: 10px;
     }
+    .type_of_ticket p:nth-child(2){
+        display: none;
+    }
 }
 
 
